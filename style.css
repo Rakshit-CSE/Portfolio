@@ -203,7 +203,7 @@ span{
 #dots, #more{
     color: var(--text-color);
     font-style: italic;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: cursive;
 }
 
 .head{
