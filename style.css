@@ -202,6 +202,7 @@ span{
 
 #dots, #more{
     color: var(--text-color);
+    font-size: 1.7rem;
     font-style: italic;
     font-family: cursive;
 }
